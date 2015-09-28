@@ -1,6 +1,12 @@
 # jquery-throttle
 jQuery plugin for requestAnimationFrame based event throttling
 
+## Installation
+
+```bash
+bower install jquery-throttle
+```
+
 ## Usage
 
 Use in the same way as you would use jQuery's .on() and .off():
