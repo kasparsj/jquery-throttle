@@ -1,5 +1,5 @@
 # jquery-throttle
-jQuery plugin for requestAnimationFrame based throttling
+jQuery plugin for requestAnimationFrame based event throttling
 
 ## Usage
 
