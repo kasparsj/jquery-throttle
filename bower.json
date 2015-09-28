@@ -1,0 +1,22 @@
+{
+  "name": "jquery-throttle",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kasparsj/jquery-throttle",
+  "authors": [
+    "Kaspars <kasparsj@gmail.com>"
+  ],
+  "description": "jQuery plugin for requestAnimationFrame based event throttling",
+  "main": "jquery.throttle.js",
+  "keywords": [
+    "jQuery",
+    "throttle"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
