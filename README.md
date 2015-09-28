@@ -1,10 +1,17 @@
 # jquery-throttle
 jQuery plugin for requestAnimationFrame based event throttling
 
-## Installation
+## Availability
 
 ```bash
 bower install jquery-throttle
+```
+
+## Installation
+
+```html
+<script src="requestAnimationFrame.js"></script>
+<script src="jquery.throttle.js"></script>
 ```
 
 ## Usage
