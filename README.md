@@ -10,8 +10,8 @@ bower install jquery-throttle
 ## Installation
 
 ```html
-<script src="requestAnimationFrame.js"></script>
-<script src="jquery.throttle.js"></script>
+<script src="bower_components/requestAnimationFrame.js/requestAnimationFrame.js"></script>
+<script src="bower_components/jquery-throttle/jquery.throttle.js"></script>
 ```
 
 ## Usage

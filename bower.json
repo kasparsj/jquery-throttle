@@ -7,6 +7,9 @@
   ],
   "description": "jQuery plugin for requestAnimationFrame based event throttling",
   "main": "jquery.throttle.js",
+  "dependencies": {
+    "requestAnimationFrame.js": "latest"
+  },
   "keywords": [
     "jQuery",
     "throttle"
